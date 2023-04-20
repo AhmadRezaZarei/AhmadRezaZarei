@@ -1,7 +1,7 @@
 # Thanks for visiting my Git! 👋
 
 ## About me
-* Highly capable Android and Backend developer with expreince of developing testable and scalable applications
+Highly capable Android and Backend developer with expreince of developing testable and scalable applications
 
 ## Experience:
 + 5 years of experience in Android development
