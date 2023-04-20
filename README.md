@@ -5,7 +5,7 @@
 
 ## Experience:
 + 5 years of experience in Android development
-+ 3 years of experience in MySQL, MongoDB, ElasticSearch, Nodejs
++ 3 years of experience in MySQL, MongoDB, ElasticSearch, Nodejs and PHP
 + 2 years of experience in Golang
 
 -------------------------------------------------------------------------------------------------------
